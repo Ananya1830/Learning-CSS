@@ -1,0 +1,30 @@
+/* Universal selector */
+*{
+    color :blue
+}
+
+/* Element Selector
+h1{
+    color:brown
+} */
+
+/* Id Selector = Unique name */
+#firstOne {
+    color :aquamarine 
+}
+#secondOne {
+    color :hotpink
+}
+
+/* Class Selector */
+.class1 {
+    color :crimson
+}
+
+.class2 {
+    color:darksalmon
+}
+
+.class3 {
+    color:darkturquoise
+}
