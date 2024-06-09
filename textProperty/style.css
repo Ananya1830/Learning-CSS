@@ -1,0 +1,70 @@
+ p{  /* Text align is basically left, right and center. In english/hindi left is start and right is end */
+    text-align:left;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline double;
+}
+h2 {
+    text-align: left;
+    
+}
+ .one {
+     text-decoration: underline;
+ }
+
+.two { 
+  text-decoration: underline dotted;
+}
+
+.three {
+    text-decoration: underline dotted red;
+}
+
+.four {
+    text-decoration: blue wavy underline;
+}
+
+.five {
+    text-decoration: underline overline greenyellow;
+}
+
+.six {
+    text-decoration: underline overline;
+}
+
+.seven {
+    text-decoration: overline;
+}
+
+.eight {
+    text-decoration: line-through;
+}
+
+.nine {
+    text-decoration: underline line-through;
+}
+
+.ten {
+    font-weight: normal;
+}
+
+.eleven {
+    font-weight: lighter;
+}
+
+.twelve {
+    font-weight: bold;
+}
+
+.thirteen {
+    font-weight: bolder;
+}
+
+.fouteen {
+    font-weight: 300;
+}
+
+.fifteen {
+    font-weight: 700;
+}
