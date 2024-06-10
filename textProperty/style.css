@@ -60,11 +60,22 @@ h2 {
 .thirteen {
     font-weight: bolder;
 }
+  /* 100-900 , 100 is lighter and 900 is bolder , 100-400 lighter , afte 400 bolder */
 
-.fouteen {
+
+
+  .fouteen {
     font-weight: 300;
 }
-
+          
 .fifteen {
     font-weight: 700;
+}
+
+#one{
+    font-family: Arial, ;
+}
+
+#two {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
