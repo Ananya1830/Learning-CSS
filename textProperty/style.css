@@ -79,3 +79,32 @@ h2 {
 #two {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+/* we can save height between lines */
+#three {
+    line-height: 10px;
+}
+
+#four {
+    line-height: 20px;
+}
+
+#five {
+    line-height: normal;
+}
+
+#six {
+    text-transform: lowercase;
+}
+
+#seven {
+    text-transform: uppercase;
+}
+
+#eight {
+    text-transform: capitalize;
+}
+
+#nine {
+    text-transform: none;
+}
