@@ -4,7 +4,8 @@
     margin: 2px;
     padding: 2px;
     display: flex; /* ye bydefault row hai */
-    flex-direction: row;
+    flex-direction: row; /* row-reverse, column, column-reverse */
+    flex-wrap: wrap; /* nowrap, wrap-reverse iss se ulte tarike se hoga*/
 }
 
 .box {
